@@ -25,7 +25,7 @@ Tampermonkey, а затем "Создать новый скрипт" или пе
 [vk-comment-blocker.user.js](https://github.com/0x7633/vk-comment-blocker/blob/userscripts/vk-comment-blocker.user.js),
 и сохраните, нажав ctrl+s или Файл -> Сохранить. Вроде больше ничего делать не надо.
 
-Скрипт был протестирован на Firefox 83 и Yandex Browser 19.1.
+Скрипт был протестирован на Firefox ≥ v83, Chromium Browser ≥ v87 и Yandex Browser v19.1.
 
 ## License
 
