@@ -47,13 +47,13 @@ GM_addStyle ( `
             if (!node.querySelector('.vkcb-btn')) {
                 var repliesWrap = "this.closest('.post_info').querySelector('.replies_wrap').classList.toggle('vkcb-show'); ";
                 var repliesHeader = "this.closest('.post_info').querySelector('.post_replies_header').classList.toggle('show-block'); ";
-                if (node.querySelector('.like_btn.comment') && node.querySelector('.post_replies_header')) {
-                    node.querySelector('.like_btn.comment').classList.add('vkcb-btn');
-                    node.querySelector('.like_btn.comment').setAttribute('onclick', repliesWrap + repliesHeader + "return false;");
+                if (node.querySelector('.like_btns').querySelector('.comment') && node.querySelector('.post_replies_header')) {
+                    node.querySelector('.like_btns').querySelector('.comment').classList.add('vkcb-btn');
+                    node.querySelector('.like_btns').querySelector('.comment').setAttribute('onclick', repliesWrap + repliesHeader + "return false;");
                 }
-                else if (node.querySelector('.like_btn.comment') && !node.querySelector('.post_replies_header')) {
-                    node.querySelector('.like_btn.comment').classList.add('vkcb-btn');
-                    node.querySelector('.like_btn.comment').setAttribute('onclick', repliesWrap + "return false;");
+                else if (node.querySelector('.like_btns').querySelector('.comment') && !node.querySelector('.post_replies_header')) {
+                    node.querySelector('.like_btns').querySelector('.comment').classList.add('vkcb-btn');
+                    node.querySelector('.like_btns').querySelector('.comment').setAttribute('onclick', repliesWrap + "return false;");
                 }
             }
         });
