@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         VK Comment Blocker
 // @namespace    vk-comment-blocker
-// @version      0.1
+// @version      2021.1
 // @description  Hides comments in VK in the news feed and on user pages.
 // @author       0x7633
 // @homepage     https://github.com/0x7633/vk-comment-blocker/tree/userscripts
