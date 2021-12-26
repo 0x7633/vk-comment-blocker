@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Hides comments in VK in the news feed and on user pages.
 // @author       0x7633
-// @homepage     https://github.com/0x7633/vk-comment-blocker
+// @homepage     https://github.com/0x7633/vk-comment-blocker/tree/userscripts
 // @supportURL   https://github.com/0x7633/vk-comment-blocker/issues
 // @match        *://vk.com/*
 // @match        *://*vk.com/*
