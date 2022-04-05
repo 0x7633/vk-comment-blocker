@@ -1,6 +1,6 @@
-## Vk Comment Blocker
+## Vk Comment Hider
 
-VK Comment Blocker — это расширение для браузеров основанных на Chromium (Google Chrome/Yandex Browser/Vivaldi/Opera), которое позволяет скрывать комментарии в ленте новостей, на страницах пользователей и сообществ во ВКонтакте.
+VK Comment Hider — это расширение для браузеров основанных на Chromium (например: Google Chrome, Yandex Browser, Vivaldi, Opera), которое позволяет скрывать комментарии в ленте новостей, на страницах пользователей и сообществ во ВКонтакте.
 
 ## Зачем?
 

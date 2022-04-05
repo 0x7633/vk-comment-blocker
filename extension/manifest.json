@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
   "name": "__MSG_app_name__",
-  "short_name": "VKCommentBlocker",
+  "short_name": "VKCommentHider",
   "description": "__MSG_app_description__",
-  "version": "1.2.3",
+  "version": "2022.1",
   "icons": {
     "16": "images/icon-16.png",
     "128": "images/icon-128.png"
